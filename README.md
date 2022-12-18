@@ -1,5 +1,10 @@
 # site-parque-ilha-bela
 
-Projeto - Construa seu primeiro documento HTML | DevMedia
+# Tecnologias
 
-Aprenda a construir sua primeira página web estilizada.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+HTML - CSS
+
+# Curso DevMedia
+
+

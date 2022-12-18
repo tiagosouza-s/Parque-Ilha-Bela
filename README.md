@@ -1,7 +1,8 @@
 # site-parque-ilha-bela
 
 
-![parque-ilha-bela](https://user-images.githubusercontent.com/113314660/208321943-5b6a3d93-0091-44e1-b280-d8a59b296a75.jpg)
+![Sem título](https://user-images.githubusercontent.com/113314660/208322171-ccee422f-6135-460c-b04e-0449bbb329f4.png)
+
 
 
 # Tecnologias
